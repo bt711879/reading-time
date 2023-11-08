@@ -15,7 +15,7 @@
       "matches": [
         "https://developer.chrome.com/docs/extensions/*",
         "https://developer.chrome.com/docs/webstore/*",
-        "https://cnnbrasil.com.br"
+        "https://cnnbrasil.com.br/*"
       ]
     }
   ]
